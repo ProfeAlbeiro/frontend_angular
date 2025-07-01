@@ -14,6 +14,7 @@
           "builder": "@angular/build:application",
           "options": {
             "baseHref": "/frontend_angular/",
+            "deployUrl": "/frontend_angular/",
             "browser": "src/main.ts",
             "tsConfig": "tsconfig.app.json",
             "assets": [
